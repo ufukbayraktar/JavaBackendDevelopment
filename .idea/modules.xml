@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DaireAlan/DaireAlan.iml" filepath="$PROJECT_DIR$/DaireAlan/DaireAlan.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101.iml" filepath="$PROJECT_DIR$/Java101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KDVTutar/KDVTutar.iml" filepath="$PROJECT_DIR$/KDVTutar/KDVTutar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManavKasa/ManavKasa.iml" filepath="$PROJECT_DIR$/ManavKasa/ManavKasa.iml" />
       <module fileurl="file://$PROJECT_DIR$/Not Ortalaması/Not Ortalaması.iml" filepath="$PROJECT_DIR$/Not Ortalaması/Not Ortalaması.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taksimetre/Taksimetre.iml" filepath="$PROJECT_DIR$/Taksimetre/Taksimetre.iml" />
       <module fileurl="file://$PROJECT_DIR$/UcgenAlan/UcgenAlan.iml" filepath="$PROJECT_DIR$/UcgenAlan/UcgenAlan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VucutKitleIndeksi/VucutKitleIndeksi.iml" filepath="$PROJECT_DIR$/VucutKitleIndeksi/VucutKitleIndeksi.iml" />
     </modules>
   </component>
 </project>
